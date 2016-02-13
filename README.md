@@ -11,6 +11,15 @@ var clear = require('clear');
 clear();
 ```
 
+CLI
+-----
+
+Alternatively, you can use the `clear` cli.
+
+``` bash
+$ clear
+```
+
 Example
 -------
 
@@ -26,7 +35,7 @@ line of output.
 Installation
 ------------
 
-    npm install clear
+    npm install [-g] clear
 
 ANSI Codes
 ----------

@@ -11,7 +11,9 @@
   "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {},
-  "bin": {},
+  "bin": {
+    "clear": "./cli.js"
+  },
   "engines": {
     "node": "*"
   },
